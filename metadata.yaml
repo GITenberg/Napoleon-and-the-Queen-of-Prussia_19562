@@ -1,0 +1,43 @@
+_repo: Napoleon-and-the-Queen-of-Prussia_19562
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Jordan, F.
+    gutenberg_agent_id: '8752'
+    url: http://www.gutenberg.org/2009/agents/8752
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mühlbach, L. (Luise)
+    aliases:
+    - Mühlbach, Luise
+    - Mundt, Clara
+    - Mundt, Klara Müller
+    - Muhlbach, L. (Luise)
+    - Mundt, Klara Muller
+    - Mühlbach, Louise
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '830'
+    url: http://www.gutenberg.org/2009/agents/830
+    wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
+description: ''
+gutenberg_bookshelf: France
+gutenberg_issued: '2006-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prussia (Germany) -- History -- Frederick William III, 1797-1840 -- Fiction'
+- !lcsh 'Luise, Queen, consort of Frederick William III, King of Prussia, 1776-1810
+  -- Fiction'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Fiction'
+- !lcc 'PT'
+title: Napoleon and the Queen of Prussia
+url: http://www.gutenberg.org/ebooks/19562
